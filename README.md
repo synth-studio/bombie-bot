@@ -1,5 +1,3 @@
-  # 🤖 BOMBIE BOT
-  
 <h1 align="center">⚠️ Внимание | Warning ⚠️</h1>
 
 <div align="center">
