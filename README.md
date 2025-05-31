@@ -1,7 +1,3 @@
-
-<div align="center">
-  <img src="./templates/git/github_logo.webp" alt="Bombie Bot Logo" width="100%"/>
-  
   # 🤖 BOMBIE BOT
   ### НАША КОМАНДА [HIDDENCODE](https://t.me/hidden_coding)
   
@@ -284,10 +280,6 @@ ver. 1.1:
 - Проверка не корректного определения силы сундука
 - Удаление логов при первом запуске
 </details>
-
-## 📞 Контакты
-
-<div align="center">
   
 [![Связь с Разработчиком](https://img.shields.io/badge/Разработчик-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/brahman_brahman)
 [![Сообщество](https://img.shields.io/badge/Комьюнити_Сигм-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/hidden_coding)
